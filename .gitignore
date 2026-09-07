@@ -1,0 +1,16 @@
+# 临时调试文件（不应入库）
+_check.js
+_check_inline.js
+
+# 本地配置与凭据
+.github-token
+*.local
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
